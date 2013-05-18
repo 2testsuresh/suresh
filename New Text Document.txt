@@ -1,2 +1,3 @@
 Line 1 add
-Line 2 add
+Line 2 delete
+Line 3 add
