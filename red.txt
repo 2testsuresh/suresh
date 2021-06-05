@@ -1,0 +1,4 @@
+total 1
+drwxr-xr-x 1 nishu 197121  0 Jun 13  2020 reports/
+-rw-r--r-- 1 nishu 197121 24 Jun  5 22:47 New Text Document.txt
+-rw-r--r-- 1 nishu 197121  0 Jun  5 22:50 red.txt
